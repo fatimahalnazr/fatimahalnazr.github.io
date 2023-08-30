@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 stat604 1st HW <br>
